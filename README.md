@@ -40,7 +40,9 @@ Before you open source your project, consider the effort required to maintain it
 
 ## FAQ
 
-#### Who owns the code I contribute to open source projects?
+#### Who owns the code I contribute to open source projects? 
+
+#### You , people around you, its open-source, that mean anyone can use it and share it.
 
 =======
 
