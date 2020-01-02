@@ -1,3 +1,4 @@
+
 # Getting Started with Open Source in the Enterprise
 
 Welcome to our course on **Getting Started with Open Source in the Enterprise**. Launching an Open Source program can be a daunting and, dare we say, overwhelming task. We are excited to join you in this journey and look forward to working side-by-side with you to set and meet your OSS goals.
@@ -15,3 +16,4 @@ This is a **learning** repository. You will see that githubteacher has opened so
 ### Getting Started
 
 We hope you are excited to get started! GitHubTeacher has already opened an issue for the first steps. Head over to the Issues tab now and get ready to take your first steps toward a :sparkles:  Open Source program for your company.
+
