@@ -57,7 +57,7 @@ If a community member engages in unacceptable behavior, the community organizers
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. Github Community.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. .
 
 
 
@@ -65,9 +65,9 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://github.com/Sirlupinwatson1/Exo-Share/blob/master/LICENSE)
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify  with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. 
 
-This is a Open-Source project, each individual should be aware on how to act or be. 
+
 
 ## 9. Scope
 
@@ -77,7 +77,7 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-Github Community
+
 
 ## 11. License and attribution
 
